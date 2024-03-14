@@ -1,0 +1,1 @@
+import TicketsTable from "./tickets-table";

@@ -1,0 +1,1 @@
+import getTicketsColumns from "./tickets-table-columns";

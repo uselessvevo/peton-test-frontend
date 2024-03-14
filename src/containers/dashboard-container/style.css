@@ -1,0 +1,26 @@
+.dashboard-logo-horizontal {
+    height: 32px;
+    margin: 16px;
+    margin-top: 5vh;
+    border-radius: 6px;
+    background-image: url("/public/logo-h.png");
+    background-size: cover;
+    background-color: transparent;
+}
+
+.dashboard-layout {
+    background-color: #fafafa;
+}
+
+
+.dashboard-horizontal {
+    margin-right: 10vh;
+    margin-bottom: 10vh;
+}
+
+
+.ant-menu-item {
+    font-size: 12pt;
+    font-weight: 400;
+    background-color: #f1eeff;
+}
